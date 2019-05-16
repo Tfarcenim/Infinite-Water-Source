@@ -1,0 +1,16 @@
+[
+{
+  "modid": "infinitewatersource",
+  "name": "Infinite Water Source",
+  "description": "Infinite water source.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "credits": "cfb",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
