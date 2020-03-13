@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "infinitewatersource:infinitewatersource"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "B B",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:ingots/brick"
+    },
+    "B": {
+      "item": "minecraft:water_bucket"
+    }
+  }
+}
